@@ -1,6 +1,6 @@
-   [1] Đặng Lê Phúc
+## [1] Đặng Lê Phúc
 
-## [2] Giới thiệu ngắn gọn
+## [2]
 
 Chào mọi người, tôi là [Đặng Lê Phúc], một sinh viên đang học tập tại [khoa tin trường sư phạm huế].
 
