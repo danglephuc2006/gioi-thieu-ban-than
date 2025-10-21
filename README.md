@@ -8,8 +8,8 @@ Chào mọi người, tôi là [Đặng Lê Phúc], một sinh viên đang học
 
 ## [3] Ảnh đại diện
 
-![Ảnh đại diện của tôi](https://photos.fife.usercontent.google.com/pw/AP1GczMC-hb3v0e0OtnvErM6ko2Yl6Gwnb6_VynBcbahK7F2i9qTDddGSfq4=w651-h869-s-no-gm?authuser=0)
-*(Lưu ý: Bạn phải tải ảnh lên một dịch vụ như Imgur để lấy đường link trực tiếp).*
+![alt](https://photos.fife.usercontent.google.com/pw/AP1GczMC-hb3v0e0OtnvErM6ko2Yl6Gwnb6_VynBcbahK7F2i9qTDddGSfq4=w651-h869-s-no-gm?authuser=0)
+
 
 ---
 
