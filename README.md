@@ -6,9 +6,8 @@ Chào mọi người, tôi là [Đặng Lê Phúc], một sinh viên đang học
 
 ---
 
-## [3] Ảnh đại diện
-
-![alt](https://photos.fife.usercontent.google.com/pw/AP1GczMC-hb3v0e0OtnvErM6ko2Yl6Gwnb6_VynBcbahK7F2i9qTDddGSfq4=w651-h869-s-no-gm?authuser=0)
+## [3] 
+![alt](20251019_214904.jpg)
 
 
 ---
