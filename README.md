@@ -30,5 +30,3 @@ Chào mọi người, tôi là [Đặng Lê Phúc], một sinh viên đang học
 ## [6] Câu Trích Dẫn Yêu Thích
 
 > Cuộc sống không phải là việc chờ đợi cơn bão đi qua, mà là học cách nhảy múa trong mưa.
-> — Vivian Greene# gioi-thieu-ban-than
-rwwqw
