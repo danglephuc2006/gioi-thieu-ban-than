@@ -9,8 +9,6 @@ Chào mọi người, tôi là [Đặng Lê Phúc], một sinh viên đang học
 ## [3] 
 ![17610082344038011516450561178750](https://github.com/user-attachments/assets/ce381345-9ab9-4367-874e-6868663998cb)
 
-![alt](
-
 
 ---
 
